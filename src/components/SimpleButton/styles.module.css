@@ -1,0 +1,13 @@
+.container {
+    background: white;  
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 100;
+    font-size: 16px; 
+    padding: 20px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+
+.container:hover {
+    cursor: pointer;
+}
