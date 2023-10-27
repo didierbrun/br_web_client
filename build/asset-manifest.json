@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.9dc3dc5c.css",
-    "main.js": "/static/js/main.7ad2ff4c.js",
+    "main.css": "/static/css/main.fa60bf7a.css",
+    "main.js": "/static/js/main.9d1f153a.js",
     "static/js/787.627756db.chunk.js": "/static/js/787.627756db.chunk.js",
+    "static/media/dolby_logo.png": "/static/media/dolby_logo.b1fe5b79a52c0bbc10fc.png",
     "static/media/logo_white.svg": "/static/media/logo_white.8be238f2016e7e7600ed74b1ac607651.svg",
     "index.html": "/index.html",
-    "main.9dc3dc5c.css.map": "/static/css/main.9dc3dc5c.css.map",
-    "main.7ad2ff4c.js.map": "/static/js/main.7ad2ff4c.js.map",
+    "main.fa60bf7a.css.map": "/static/css/main.fa60bf7a.css.map",
+    "main.9d1f153a.js.map": "/static/js/main.9d1f153a.js.map",
     "787.627756db.chunk.js.map": "/static/js/787.627756db.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9dc3dc5c.css",
-    "static/js/main.7ad2ff4c.js"
+    "static/css/main.fa60bf7a.css",
+    "static/js/main.9d1f153a.js"
   ]
 }
