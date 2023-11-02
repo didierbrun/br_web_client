@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react"
-import DemoHeader from "../components/DemoHeader/DemoHeader"
-import SimpleButton from "../components/SimpleButton/SimpleButton"
-import LocalPlayer from "../components/LocalPlayer/LocalPlayer"
+import DemoHeader from "../../components/DemoHeader/DemoHeader"
+import SimpleButton from "../../components/SimpleButton/SimpleButton"
+import LocalPlayer from "../../components/LocalPlayer/LocalPlayer"
 import styles from './styles.module.css'
 import VoxeetSDK from "@voxeet/voxeet-web-sdk"
 

@@ -1,7 +1,8 @@
 import React from 'react';
 import './index.css';
 import App from './App';
-import DolbyOne2One from './pages/DolbyOne2One';
+import DolbyOne2One from './pages/DolbyOne2One/DolbyOne2One';
+import DolbyLive from './pages/DolbyLive/DolbyLive';
 import reportWebVitals from './reportWebVitals';
 import * as ReactDOM from "react-dom/client";
 import {
@@ -17,6 +18,10 @@ const router = createBrowserRouter([
   {
     path: "dolbyone2one",
     element: <DolbyOne2One/>
+  },
+  {
+    path: "dolbylive",
+    element: <DolbyLive/>
   }
 ]);
 
